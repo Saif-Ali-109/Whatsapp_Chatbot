@@ -39,7 +39,7 @@ cd whatsapp_chatbot
 
 ### 2. Create and activate a virtual environment
 ```bash
-python -m venv venv
+python -m venv venv || uv venv
 # Windows
 venv\Scripts\activate
 # Linux/Mac
