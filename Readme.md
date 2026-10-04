@@ -33,8 +33,8 @@ This project is designed to be **shared publicly**, with sensitive credentials h
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Saif-Ali-109/Whatsapp_Automation.git
-cd whatsapp-automation
+git clone https://github.com/Saif-Ali-109/Whatsapp_Chatbot.git
+cd whatsapp_chatbot
 ```
 
 ### 2. Create and activate a virtual environment
