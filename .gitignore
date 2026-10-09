@@ -9,3 +9,13 @@ wheels/
 # Virtual environments
 .venv
 .env
+
+# Local design doc (not for publishing)
+spec.md
+
+# Tooling caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
